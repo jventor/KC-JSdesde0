@@ -22,3 +22,15 @@
 .wall{
     background: white;
 }
+
+.actor{
+    position: absolute;
+}
+
+.coin{
+    background: yellow;
+}
+
+.player{
+    background: black;
+}
